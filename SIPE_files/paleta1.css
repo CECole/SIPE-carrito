@@ -1,0 +1,182 @@
+.btn-primary:hover {
+	color: #FFF;
+	background-color: #006847;
+	border-color: #003524;
+}
+
+.btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+	color: #fff;
+	background-color: #006847;
+	background-image: none;
+	border-color: #003524;
+}
+
+	.btn-primary:active:hover, .btn-primary.active:hover, .open > .dropdown-toggle.btn-primary:hover, .btn-primary:active:focus, .btn-primary.active:focus, .open > .dropdown-toggle.btn-primary:focus, .btn-primary:active.focus, .btn-primary.active.focus, .open > .dropdown-toggle.btn-primary.focus {
+		color: #fff;
+		background-color: #006847;
+		border-color: #003524;
+	}
+
+.dropdown-menu li a:hover, .dropdown-menu li a:focus {
+	color: #fff;
+	background-color: #003524;
+}
+
+.dropdown-menu .active a, .dropdown-menu .active a:hover, .dropdown-menu .active a:focus {
+	color: #fff;
+	text-decoration: none;
+	background-color: #006847;
+}
+
+.nav .open > a, .nav .open > a:hover, .nav .open > a:focus {
+	background-color: #ddd;
+	border-color: #006847;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+	background-color: transparent;
+	color: #006847;
+}
+
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+	background-color: transparent;
+	color: #fff;
+}
+
+.list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
+	z-index: 2;
+	color: #fff;
+	background-color: #006847;
+	border-color: #006847;
+}
+
+.panel-primary > .panel-heading + .panel-collapse > .panel-body {
+	border-top-color: #006847;
+}
+
+.panel-primary > .panel-footer + .panel-collapse > .panel-body {
+	border-bottom-color: #006847;
+}
+
+.navbar-inverse .badge {
+	background-color: #fff;
+	color: #006847;
+}
+
+.btn-primary, .btn-primary:hover {
+	background-image: linear-gradient(#006847,#0035246%,#006847);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#003524',endColorstr='#006847',GradientType=0);
+}
+
+.pager a:hover, .pager .active > a {
+	color: #fff;
+	border-color: #006847;
+}
+
+.home-ico {
+	background-position: 0 -31px;
+}
+
+.cart-ico:before {
+	background-position: -46px -31px;
+}
+
+.contract-ico:before, .expand-ico:before {
+	border-color: #EB0029;
+}
+
+.work-area {
+	background-color: #F1F1F1;
+}
+
+legend {	
+	border-bottom-color: #aaa;
+}
+
+legend, table caption {
+	color: #006847;
+}
+
+.categories a:hover {
+	background-color: #f1f1f1;
+	color: #006847;
+	border-color: #aaa;
+}
+
+a, .text-primary, .btn-link, .navbar-default .navbar-link:hover, .navbar-default .btn-link:hover, .navbar-default .btn-link:focus, .has-error .help-block, .has-error .control-label, .has-error .radio, .has-error .checkbox, .has-error .radio-inline, .has-error .checkbox-inline, .has-error.radio label, .has-error.checkbox label, .has-error.radio-inline label, .has-error.checkbox-inline label, .has-error .form-control-feedback, .contact-info, .mainTitle h2, .highlight-text, .page-header h2 {
+	color: #006847;
+}
+
+	a:hover, a:focus, a.text-primary:hover, a.text-primary:focus {
+		color: #003524;
+	}
+
+.bg-primary, .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus, .badge, .progress-bar {
+	color: #fff;
+	background-color: #006847;
+}
+
+a.bg-primary:hover, a.bg-primary:focus, .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus, .label-primary[href]:hover, .label-primary[href]:focus {
+	background-color: #003524;
+}
+
+.btn-primary, .btn-primary:focus, .btn-primary.focus {
+	color: #FFF;
+	background-color: #006847;
+	border-color: #006847;
+}
+
+	.btn-primary.disabled, .btn-primary[disabled], fieldset[disabled] .btn-primary, .btn-primary.disabled:hover, .btn-primary[disabled]:hover, fieldset[disabled] .btn-primary:hover, .btn-primary.disabled:focus, .btn-primary[disabled]:focus, fieldset[disabled] .btn-primary:focus, .btn-primary.disabled.focus, .btn-primary[disabled].focus, fieldset[disabled] .btn-primary.focus, .btn-primary.disabled:active, .btn-primary[disabled]:active, fieldset[disabled] .btn-primary:active, .btn-primary.disabled.active, .btn-primary[disabled].active, fieldset[disabled] .btn-primary.active, .navbar-inverse {
+		background-color: #006847;
+		border-color: #006847;
+	}
+
+	.btn-primary .badge, .list-group-item.active > .badge, .nav-pills > .active > a > .badge, .panel-primary > .panel-heading .badge {
+		color: #006847;
+		background-color: #fff;
+	}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus, .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+	color: #006847;
+	background-color: transparent;
+}
+
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-text, .navbar-inverse .navbar-nav > li > a, .navbar-inverse .navbar-link, .navbar-inverse .btn-link, .list-group-item.active .list-group-item-text, .list-group-item.active:hover .list-group-item-text, .list-group-item.active:focus .list-group-item-text {
+	color: #F4F4F4;
+}
+
+	.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus, .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+		color: #fff;
+		background-color: transparent;
+	}
+
+.navbar-inverse .navbar-toggle, .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+	border-color: #003524;
+}
+
+.pagination > li > a:hover, .pagination > li > button:hover, .pagination > li > span:hover, .pagination > li > a:focus, .pagination > li > button:focus, .pagination > li > span:focus, .pagination > .active > a, .pagination > .active > button, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > button:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > button:focus, .pagination > .active > span:focus, .panel-primary > .panel-heading {
+	color: #fff;
+	background-color: #006847;
+	border-color: #006847;
+}
+
+.pager li > a:hover, .pager li > a:focus, .label-primary, .banner {
+	background-color: #006847;
+}
+
+a.thumbnail:hover, a.thumbnail:focus, a.thumbnail.active, .panel-primary, .has-error .form-control, .has-error .form-control:focus {
+	border-color: #006847;
+}
+
+.field-validation-error, .mainTitle h1 {
+	color: #EB0029;
+}
+
+.steps-bar .active, .steps-bar .done {
+	color: #006847;
+	font-weight: 700;
+}
+
+	.steps-bar .active .step, .steps-bar .done .step {
+		background: url(/Styles/images/step-done-p1.png) no-repeat;
+	}
